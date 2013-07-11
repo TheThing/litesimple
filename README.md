@@ -41,9 +41,9 @@ Then play with it:
 >>> print car.get(1)
 car (Opel)
 >>> for x in car.filter(): print x
-queue (Opel)
-queue (Hyundai)
-queue (BMW)
+car (Opel)
+car (Hyundai)
+car (BMW)
 >>> c = car.get(2)
 >>> print c
 car (Hyundai)
@@ -58,3 +58,5 @@ car (BMW)
 >>> for x in car.filter(): print x
 car (BMW)
 ```
+
+That's it.
