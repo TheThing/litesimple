@@ -16,9 +16,8 @@ setup(
     author_email='jonatan@nilsson.is',
     url='https://github.com/TheThing/litesimple',
     long_description=open('readme.md', 'r').read(),
-    packages=[
-        'litesimple',
-    ],
+    py_modules=['litesimple'],
+    scripts=['litesimple.py'],
     requires=[],
     classifiers=[
         'Development Status :: 3 - Alpha',
