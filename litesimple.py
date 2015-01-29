@@ -8,7 +8,7 @@ task.
 
 Homepage and documentation: https://github.com/TheThing/snapshot-agent
 
-Copyright (c) 2012, Marcel Hellkamp.
+Copyright (c) 2012, Jonatan Nilsson.
 License: WTFPL (see LICENSE for details)
 
 """
